@@ -3,7 +3,7 @@
 > A scalable, event-driven workflow management system that enables agents to pause execution and request human approval before proceeding with critical actions.
 
 ### 🚀 Repositories
-- Frontend: [Human-Looping-System-Frontend](https://github.com/sireesha-siri/Human-Looping-Frontend)
+- Frontend: [Human-Looping-Frontend](https://github.com/sireesha-siri/Human-Looping-Frontend)
 - Backend: [Human-Looping-Backend](https://github.com/sireesha-siri/Human-Looping-Backend)
 
 
